@@ -7,3 +7,6 @@ Designation: Manual Tester
 Company: Amazon
 <br>
 Author: Aniket Waghmare
+
+Regards,
+Aniket
